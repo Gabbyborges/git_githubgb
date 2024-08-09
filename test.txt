@@ -1,0 +1,11 @@
+echo "# git_githubgb" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Gabbyborges/git_githubgb.git
+ git push -u origin main
+
+
+git comit -m "first comit"
+ comitar o nosso projeto com o nome "first comit" 
